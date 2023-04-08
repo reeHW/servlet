@@ -1,1 +1,1 @@
-# servlet
+# spring-mvc-study
